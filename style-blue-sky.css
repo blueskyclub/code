@@ -98,7 +98,7 @@ img {
 blockquote {
   margin-bottom: 10px;
   padding: 10px 20px;
-  border-color: #3333FF #3333FF #3333FF #e6e6e6;
+  border-color: #5ab963 #5ab963 #5ab963 #e6e6e6;
   border-left-style: solid;
   border-left-width: 5px;
   font-family: 'IBM Plex Mono', sans-serif;
@@ -269,7 +269,7 @@ figcaption {
   margin-top: 50px;
   padding: 15px 30px;
   border-radius: 4px;
-  background-color: #3333FF;
+  background-color: #5ab963;
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
   font-family: 'Libre Franklin', sans-serif;
@@ -488,7 +488,7 @@ figcaption {
 
 .h3.cc-cta {
   margin-bottom: 0px;
-  color: #3333FF;
+  color: #5ab963;
 }
 
 .h3.cc-header {
@@ -607,7 +607,7 @@ figcaption {
   -webkit-transition: color 200ms ease;
   transition: color 200ms ease;
   font-family: 'IBM Plex Mono', sans-serif;
-  color: #3333FF;
+  color: #5ab963;
   font-size: 12px;
   line-height: 18px;
   font-weight: 400;
@@ -766,7 +766,7 @@ figcaption {
   width: 30px;
   height: 2px;
   margin-left: 20px;
-  background-color: #3333FF;
+  background-color: #5ab963;
 }
 
 .cta-line.cc-header {
@@ -826,7 +826,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #0a0e1a;
+  background-color: #3333FF;
 }
 
 .footer-column {
@@ -1010,7 +1010,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #3333FF;
+  background-color: #5ab963;
 }
 
 .header-inner.cc-header-extra {
@@ -1057,7 +1057,7 @@ figcaption {
 .premium-banner-inner {
   max-width: 370px;
   padding: 60px 50px;
-  background-color: #3333FF;
+  background-color: #5ab963;
 }
 
 .premium-intro {
@@ -1138,7 +1138,7 @@ figcaption {
 .block-quote {
   border-left: 0px none transparent;
   font-family: 'Libre Franklin', sans-serif;
-  color: #3333FF;
+  color: #5ab963;
   font-size: 24px;
   line-height: 36px;
   font-weight: 300;
@@ -1271,7 +1271,7 @@ figcaption {
   height: 1px;
   margin-top: 30px;
   margin-bottom: 30px;
-  background-color: #3333FF;
+  background-color: #5ab963;
 }
 
 .pricing-info {
@@ -1293,7 +1293,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #3333FF;
+  background-color: #5ab963;
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
   font-family: 'Libre Franklin', sans-serif;
@@ -1692,7 +1692,7 @@ figcaption {
   right: 0px;
   width: 100%;
   height: 75%;
-  background-color: #3333FF;
+  background-color: #5ab963;
 }
 
 .content {
@@ -2112,7 +2112,7 @@ figcaption {
   .nav-menu {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: #3333FF;
+    background-color: #5ab963;
     box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2);
   }
   .nav-link {
